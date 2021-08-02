@@ -1,0 +1,12 @@
+@import './../../setting';
+
+$app-bg-color: #50b9f7;
+
+.navbar-app {
+    background-color: $app-bg-color;
+    font-size: 1.5rem;
+    padding-left: $gap;
+    display: flex;
+    align-items: center;
+    // padding-left: ;
+}
